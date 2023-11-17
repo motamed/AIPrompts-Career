@@ -64,7 +64,9 @@ Rules for the session:
 ## 📚 Additional Information
 
 ## 🎉 Closing Statement
-```
+
+``` markdown
 
 Please start
+
 ```
